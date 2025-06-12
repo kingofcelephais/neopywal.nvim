@@ -42,7 +42,7 @@ function M.setup(config)
 
     local program_palette_map = {
         wal = cache_dir .. "/wal/colors-wal.vim",
-        pywal = "../../../resources/colors-wal.vim",
+        pywal = cache_dir .. "/wal/colors-wal.vim",
         wallust = cache_dir .. "/wallust/colors_neopywal.vim",
     }
 

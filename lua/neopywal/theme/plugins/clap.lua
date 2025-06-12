@@ -1,5 +1,5 @@
 local M = {}
-local C = require("neopywal.lib.palette").get()
+-- local C = require("neopywal.lib.palette").get()
 local O = require("neopywal.lib.config").options
 
 ---@type NeopywalPluginsClapOptions

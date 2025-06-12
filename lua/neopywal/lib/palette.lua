@@ -41,9 +41,9 @@ function M.setup(config)
     end
 
     local program_palette_map = {
-        wal = cache_dir .. "/wal/colors-wal.vim",
-        pywal = cache_dir .. "/wal/colors-wal.vim",
-        wallust = cache_dir .. "/wallust/colors_neopywal.vim",
+        wal = "/home/kuranes/.cache/wal/colors-wal.vim",
+        pywal = "/home/kuranes/.cache/wal/colors-wal.vim",
+        wallust = "/home/kuranes/.cache/wallust/colors_neopywal.vim",
     }
 
     -- List of supported builting palettes.

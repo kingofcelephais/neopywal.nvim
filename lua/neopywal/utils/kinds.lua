@@ -1,5 +1,5 @@
 local M = {}
--- local C = require("neopywal.lib.palette").get()
+local C = require("neopywal.lib.palette").get()
 
 -- LSP symbol kind and completion kind highlights.
 local kinds = {
